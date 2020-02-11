@@ -26,3 +26,24 @@ git remote add origin https://github.com/poramet260241/3SA04_6010110678.git
 git commit -m "first commit"
 git status
 gitignore
+git add --all .
+git commit -m "My Django Girls app, first commit"
+git remote add origin https://github.com/poramet260241/my-first-blog.git
+git remote add origin https://github.com/poramet260241/3SA04_6010110678.git
+git push -u origin master
+cd djangogirls/
+git status
+cd ..
+ls
+git push 
+git status
+ls
+cd djangogirls/
+ls
+git add --all .
+git status
+git commit -m "Changed the HTML for the site."
+git push
+cd ..
+git push
+git status
