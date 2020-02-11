@@ -52,3 +52,7 @@ git status
 git commit -m "Changed the HTML for the site."
 git push
 git status
+git add --all .
+git status
+git commit -m "Added views to create/edit blog post inside the site."
+git push
